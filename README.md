@@ -1,6 +1,5 @@
-## someJs
-
-> 记录一些js方法，并封装一些函数。
+## 🍒 <span style="color: #558899">someJs</span>
+> <span style="color: #558899">记录一些js方法，并封装一些函数。</span>
 
 运行js文件
 ```
